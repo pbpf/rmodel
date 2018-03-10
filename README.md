@@ -1,3 +1,0 @@
-# rmodel
-
-hello
