@@ -1,1 +1,1 @@
-hello test
+这是火箭6自由度模型的matlab描述
